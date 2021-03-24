@@ -1,19 +1,20 @@
-# hello-world-v2
+# Curso de VueJs
 
-## Project setup
+## Instalar Proyecto
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Compila y crear un servidor (hot reloads)
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compila y minifica para producción
 ```
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Vean en tiempo real en:
+
+https://sonusbeat.github.io/Curso-de-VueJs/
